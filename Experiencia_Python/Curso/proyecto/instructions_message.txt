@@ -1,0 +1,16 @@
+Intrucciones:
+El  juego consiste en escribir palabras correctas en un tablero 15x15.
+Por cada ficha nueva se suman los puntos dependiendo de la letra.
+El juego termina hasta que ya no queden más fichas o tu decidas terminarlo.
+Pasos:
+1.- Escribir las coordenadas 'x' y 'y' 
+2.- Escribir la palabra
+3.- Escribir la dirección "V" o "H"
+
+Restricciones:
+1.- La primera palabra debe tener al menos una ficha situada en la casilla central.
+2.- La palabra no puede salirse de los límites del tablero.
+3.- Todas las palabras, a excepción de la primera, deben usar una ficha ya existente en el tablero.
+4.- No se puede situar una ficha en una casilla ya ocupada por otra ficha diferente.
+5.- Hay que colocar al menos una nueva ficha en el tablero.
+6.- No puede haber una ficha al principio o al final de la palabra que se vaya a colocar sobre el tablero si ésta no pertenece a la palabra.
