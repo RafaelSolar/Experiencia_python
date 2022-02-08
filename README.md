@@ -1,2 +1,2 @@
-# Portafolio_python
+# Portafolio
 Este repositorio contiene mis conocimientos en programación.
